@@ -4,4 +4,4 @@ You could use this for async processes, I might build the functionality to suppo
 
 While waiting, state is PERHAPS, otherwise TRUE or FALSE, null if null. (obviously)
 
-Probably can be used for quantum computing too, but at the same time probable not.
+Probably can be used for quantum computing too, but at the same time probably not.
